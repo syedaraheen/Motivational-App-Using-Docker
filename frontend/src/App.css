@@ -1,0 +1,31 @@
+/* Custom styles for the Daily Motivation App */
+.motivation-card {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.quote-text {
+  font-family: 'Georgia', serif;
+  line-height: 1.6;
+}
+
+.loading-spinner {
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.hover-lift {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.hover-lift:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+}
