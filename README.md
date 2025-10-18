@@ -1,4 +1,6 @@
 
+# Motivational App Using Docker
+
 ![Frontend Application](frontend/public/Frontend_app.png)
 *Beautiful, responsive Daily Motivation App interface*
 
