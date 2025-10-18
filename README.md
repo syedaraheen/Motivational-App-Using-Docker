@@ -1,4 +1,3 @@
-# Daily Motivation App
 
 ![Frontend Application](frontend/public/Frontend_app.png)
 *Beautiful, responsive Daily Motivation App interface*
@@ -694,3 +693,5 @@ If you encounter any issues or have questions:
 **Made with ❤️ and lots of ☕ by the development team**
 
 *Stay motivated and keep coding!* 🚀
+
+
